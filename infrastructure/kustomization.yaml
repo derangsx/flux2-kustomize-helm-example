@@ -1,0 +1,4 @@
+namespace: ingress-kong
+resources:
+  - namespace.yaml
+  - release.yaml
